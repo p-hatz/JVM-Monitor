@@ -13,4 +13,6 @@ You can then use a viz. tool to hopefully extract some useful info :) See sample
 
 
 ### Metabase
+![Screenshot from 2024-03-12 16-52-53](https://github.com/p-hatz/JVM-Monitor/assets/141098596/4a594e6b-c740-4400-8369-5a5c1c45217a)
+
 ![Screenshot from 2024-03-12 14-21-36](https://github.com/p-hatz/JVM-Monitor/assets/141098596/f2900f45-62b4-4369-bb7b-eca4e070bb89)
