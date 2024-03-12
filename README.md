@@ -4,7 +4,7 @@ Looks for Boomi JVMs and:
 1. Retrieves CPU and Memory stats.
 2. Pushes to a DB (see [https://github.com/p-hatz/JVM-Monitor/blob/main/osMetricJVM-DDL.sql](url))
 
-This uses the Java Process Status binary (`jps) that you can find in your JDK.
+This uses the Java Process Status binary (`jps`) that you can find in your JDK.
 
 You can then use a viz. tool to hopefully extract some useful info :) See samples below.
 
